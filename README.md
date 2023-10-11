@@ -1,4 +1,4 @@
-![Adapterpattern](https://github.com/JamesManalili/AdapterPatternLab6/assets/142465145/7257826f-0585-47a5-a78a-ceb46acb4c38)# Problem
+# Problem
 
 __Plugging Devices into Power Outlets__
 
